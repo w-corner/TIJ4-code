@@ -1,4 +1,5 @@
 //: concurrency/FastSimulation.java
+package concurrency;
 import java.util.concurrent.*;
 import java.util.concurrent.atomic.*;
 import java.util.*;

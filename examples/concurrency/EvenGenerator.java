@@ -1,6 +1,7 @@
 //: concurrency/EvenGenerator.java
 // When threads collide.
 
+package concurrency;
 public class EvenGenerator extends IntGenerator {
   private int currentEvenValue = 0;
   public int next() {

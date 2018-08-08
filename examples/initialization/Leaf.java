@@ -1,6 +1,7 @@
 //: initialization/Leaf.java
 // Simple use of the "this" keyword.
 
+package initialization;
 public class Leaf {
   int i = 0;
   Leaf increment() {

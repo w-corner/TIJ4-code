@@ -1,4 +1,5 @@
 //: arrays/ParameterizedArrayType.java
+package arrays;
 
 class ClassParameter<T> {
   public T[] f(T[] arg) { return arg; }

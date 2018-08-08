@@ -1,5 +1,6 @@
 //: arrays/ComparatorTest.java
 // Implementing a Comparator for a class.
+package arrays;
 import java.util.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

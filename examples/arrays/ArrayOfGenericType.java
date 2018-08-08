@@ -1,6 +1,7 @@
 //: arrays/ArrayOfGenericType.java
 // Arrays of generic types won't compile.
 
+package arrays;
 public class ArrayOfGenericType<T> {
   T[] array; // OK
   @SuppressWarnings("unchecked")

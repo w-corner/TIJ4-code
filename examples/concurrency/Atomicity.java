@@ -1,6 +1,7 @@
 //: concurrency/Atomicity.java
 // {Exec: javap -c Atomicity}
 
+package concurrency;
 public class Atomicity {
   int i;
   void f1() { i++; }

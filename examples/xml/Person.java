@@ -1,3 +1,4 @@
+/*
 //: xml/Person.java
 // Use the XOM library to write and read XML
 // {Requires: nu.xom.Node; You must install
@@ -52,7 +53,8 @@ public class Person {
     format(new BufferedOutputStream(new FileOutputStream(
       "People.xml")), doc);
   }
-} /* Output:
+} */
+/* Output:
 [Dr. Bunsen Honeydew, Gonzo The Great, Phillip J. Fry]
 <?xml version="1.0" encoding="ISO-8859-1"?>
 <people>
@@ -69,4 +71,6 @@ public class Person {
         <last>Fry</last>
     </person>
 </people>
-*///:~
+*//*
+//:~
+*/

@@ -1,5 +1,6 @@
 //: arrays/CompType.java
 // Implementing Comparable in a class.
+package arrays;
 import java.util.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

@@ -1,5 +1,6 @@
 //: concurrency/Joining.java
 // Understanding join().
+package concurrency;
 import static net.mindview.util.Print.*;
 
 class Sleeper extends Thread {

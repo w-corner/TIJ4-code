@@ -1,5 +1,6 @@
 //: concurrency/Interrupting2.java
 // Interrupting a task blocked with a ReentrantLock.
+package concurrency;
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 import static net.mindview.util.Print.*;

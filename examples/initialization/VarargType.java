@@ -1,5 +1,6 @@
 //: initialization/VarargType.java
 
+package initialization;
 public class VarargType {
   static void f(Character... args) {
     System.out.print(args.getClass());

@@ -1,3 +1,4 @@
+package generics;
 //: generics/BankTeller.java
 // A very simple bank teller simulation.
 import java.util.*;

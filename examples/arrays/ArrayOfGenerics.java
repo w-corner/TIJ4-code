@@ -1,5 +1,8 @@
 //: arrays/ArrayOfGenerics.java
 // It is possible to create arrays of generics.
+
+package arrays;
+
 import java.util.*;
 
 public class ArrayOfGenerics {

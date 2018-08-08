@@ -1,4 +1,5 @@
 //: arrays/ContainerComparison.java
+package arrays;
 import java.util.*;
 import static net.mindview.util.Print.*;
 

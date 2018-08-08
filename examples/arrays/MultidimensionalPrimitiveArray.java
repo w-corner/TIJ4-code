@@ -1,5 +1,6 @@
 //: arrays/MultidimensionalPrimitiveArray.java
 // Creating multidimensional arrays.
+package arrays;
 import java.util.*;
 
 public class MultidimensionalPrimitiveArray {

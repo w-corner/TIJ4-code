@@ -1,6 +1,7 @@
 //: concurrency/AttemptLocking.java
 // Locks in the concurrent library allow you
 // to give up on trying to acquire a lock.
+package concurrency;
 import java.util.concurrent.*;
 import java.util.concurrent.locks.*;
 

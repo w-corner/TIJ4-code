@@ -1,6 +1,7 @@
 //: concurrency/Fat.java
 // Objects that are expensive to create.
 
+package concurrency;
 public class Fat {
   private volatile double d; // Prevent optimization
   private static int counter = 0;

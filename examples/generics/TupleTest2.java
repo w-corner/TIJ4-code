@@ -1,3 +1,4 @@
+package generics;
 //: generics/TupleTest2.java
 import net.mindview.util.*;
 import static net.mindview.util.Tuple.*;

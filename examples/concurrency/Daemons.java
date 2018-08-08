@@ -1,5 +1,6 @@
 //: concurrency/Daemons.java
 // Daemon threads spawn other daemon threads.
+package concurrency;
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;
 

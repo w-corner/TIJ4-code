@@ -1,5 +1,6 @@
 //: arrays/Reverse.java
 // The Collections.reverseOrder() Comparator
+package arrays;
 import java.util.*;
 import net.mindview.util.*;
 import static net.mindview.util.Print.*;

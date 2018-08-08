@@ -1,6 +1,7 @@
 //: initialization/InitialValues2.java
 // Providing explicit initial values.
 
+package initialization;
 public class InitialValues2 {
   boolean bool = true;
   char ch = 'x';

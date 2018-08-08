@@ -1,5 +1,6 @@
 //: concurrency/HorseRace.java
 // Using CyclicBarriers.
+package concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

@@ -1,3 +1,4 @@
+package generics;
 //: generics/PrimitiveGenericTest.java
 import net.mindview.util.*;
 

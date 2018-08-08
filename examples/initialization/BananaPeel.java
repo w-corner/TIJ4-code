@@ -1,5 +1,6 @@
 //: initialization/BananaPeel.java
 
+package initialization;
 class Banana { void peel(int i) { /* ... */ } }
 
 public class BananaPeel {

@@ -2,6 +2,7 @@
 // Can only pass constants, immutables, "disconnected
 // objects," or other active objects as arguments
 // to asynch methods.
+package concurrency;
 import java.util.concurrent.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

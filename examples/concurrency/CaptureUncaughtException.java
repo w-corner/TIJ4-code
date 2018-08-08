@@ -1,4 +1,5 @@
 //: concurrency/CaptureUncaughtException.java
+package concurrency;
 import java.util.concurrent.*;
 
 class ExceptionThread2 implements Runnable {

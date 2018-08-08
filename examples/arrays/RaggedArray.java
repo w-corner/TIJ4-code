@@ -1,4 +1,5 @@
 //: arrays/RaggedArray.java
+package arrays;
 import java.util.*;
 
 public class RaggedArray {

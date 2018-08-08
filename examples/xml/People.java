@@ -1,3 +1,4 @@
+/*
 //: xml/People.java
 // {Requires: nu.xom.Node; You must install
 // the XOM library from http://www.xom.nu }
@@ -17,6 +18,9 @@ public class People extends ArrayList<Person> {
     People p = new People("People.xml");
     System.out.println(p);
   }
-} /* Output:
+} */
+/* Output:
 [Dr. Bunsen Honeydew, Gonzo The Great, Phillip J. Fry]
-*///:~
+*//*
+//:~
+*/

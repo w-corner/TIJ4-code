@@ -1,5 +1,6 @@
 //: initialization/AutoboxingVarargs.java
 
+package initialization;
 public class AutoboxingVarargs {
   public static void f(Integer... args) {
     for(Integer i : args)

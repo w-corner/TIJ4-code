@@ -1,5 +1,6 @@
 //: initialization/OverloadingVarargs3.java
 
+package initialization;
 public class OverloadingVarargs3 {
   static void f(float i, Character... args) {
     System.out.println("first");

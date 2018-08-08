@@ -1,5 +1,6 @@
 //: initialization/ArrayInit.java
 // Array initialization.
+package initialization;
 import java.util.*;
 
 public class ArrayInit {

@@ -2,6 +2,7 @@
 // Interrupting a blocked task by
 // closing the underlying resource.
 // {RunByHand}
+package concurrency;
 import java.net.*;
 import java.util.concurrent.*;
 import java.io.*;

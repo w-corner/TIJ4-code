@@ -1,5 +1,6 @@
 //: concurrency/DaemonsDontRunFinally.java
 // Daemon threads don't run the finally clause
+package concurrency;
 import java.util.concurrent.*;
 import static net.mindview.util.Print.*;
 

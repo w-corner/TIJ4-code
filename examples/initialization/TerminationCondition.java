@@ -2,6 +2,7 @@
 // Using finalize() to detect an object that
 // hasn't been properly cleaned up.
 
+package initialization;
 class Book {
   boolean checkedOut = false;
   Book(boolean checkOut) {

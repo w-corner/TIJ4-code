@@ -1,5 +1,6 @@
 //: typeinfo/PetCount.java
 // Using instanceof.
+package typeinfo;
 import typeinfo.pets.*;
 import java.util.*;
 import static net.mindview.util.Print.*;

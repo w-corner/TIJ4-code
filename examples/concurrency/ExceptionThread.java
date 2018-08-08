@@ -1,5 +1,6 @@
 //: concurrency/ExceptionThread.java
 // {ThrowsException}
+package concurrency;
 import java.util.concurrent.*;
 
 public class ExceptionThread implements Runnable {

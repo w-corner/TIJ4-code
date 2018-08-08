@@ -1,6 +1,6 @@
+package interfaces;
 //: interfaces/Months.java
 // Using interfaces to create groups of constants.
-package interfaces;
 
 public interface Months {
   int

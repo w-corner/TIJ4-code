@@ -1,6 +1,7 @@
 //: concurrency/FixedDiningPhilosophers.java
 // Dining philosophers without deadlock.
 // {Args: 5 5 timeout}
+package concurrency;
 import java.util.concurrent.*;
 
 public class FixedDiningPhilosophers {

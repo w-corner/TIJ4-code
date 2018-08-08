@@ -1,5 +1,6 @@
 //: initialization/NoSynthesis.java
 
+package initialization;
 class Bird2 {
   Bird2(int i) {}
   Bird2(double d) {}

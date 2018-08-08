@@ -1,5 +1,6 @@
 //: concurrency/Interrupting.java
 // Interrupting a blocked thread.
+package concurrency;
 import java.util.concurrent.*;
 import java.io.*;
 import static net.mindview.util.Print.*;

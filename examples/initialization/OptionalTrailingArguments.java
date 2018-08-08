@@ -1,5 +1,6 @@
 //: initialization/OptionalTrailingArguments.java
 
+package initialization;
 public class OptionalTrailingArguments {
   static void f(int required, String... trailing) {
     System.out.print("required: " + required + " ");

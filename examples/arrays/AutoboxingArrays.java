@@ -1,4 +1,5 @@
 //: arrays/AutoboxingArrays.java
+package arrays;
 import java.util.*;
 
 public class AutoboxingArrays {

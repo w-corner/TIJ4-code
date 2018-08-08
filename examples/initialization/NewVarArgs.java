@@ -1,6 +1,7 @@
 //: initialization/NewVarArgs.java
 // Using array syntax to create variable argument lists.
 
+package initialization;
 public class NewVarArgs {
   static void printArray(Object... args) {
     for(Object obj : args)

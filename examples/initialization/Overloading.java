@@ -1,6 +1,7 @@
 //: initialization/Overloading.java
 // Demonstration of both constructor
 // and ordinary method overloading.
+package initialization;
 import static net.mindview.util.Print.*;
 
 class Tree {

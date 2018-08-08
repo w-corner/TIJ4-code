@@ -1,5 +1,6 @@
 //: reusing/SpaceShip.java
 
+package reusing;
 public class SpaceShip extends SpaceShipControls {
   private String name;
   public SpaceShip(String name) { this.name = name; }

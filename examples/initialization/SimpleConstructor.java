@@ -1,5 +1,6 @@
 //: initialization/SimpleConstructor.java
 // Demonstration of a simple constructor.
+package initialization;
 
 class Rock {
   Rock() { // This is the constructor

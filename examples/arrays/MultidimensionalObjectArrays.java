@@ -1,4 +1,5 @@
 //: arrays/MultidimensionalObjectArrays.java
+package arrays;
 import java.util.*;
 
 public class MultidimensionalObjectArrays {

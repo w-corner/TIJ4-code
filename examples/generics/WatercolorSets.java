@@ -1,3 +1,4 @@
+package generics;
 //: generics/WatercolorSets.java
 import generics.watercolors.*;
 import java.util.*;

@@ -1,5 +1,6 @@
 //: initialization/Burrito.java
 
+package initialization;
 public class Burrito {
   Spiciness degree;
   public Burrito(Spiciness degree) { this.degree = degree;}

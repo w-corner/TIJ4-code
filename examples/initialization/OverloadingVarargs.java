@@ -1,5 +1,6 @@
 //: initialization/OverloadingVarargs.java
 
+package initialization;
 public class OverloadingVarargs {
   static void f(Character... args) {
     System.out.print("first");

@@ -1,5 +1,6 @@
 //: arrays/CopyingArrays.java
 // Using System.arraycopy()
+package arrays;
 import java.util.*;
 import static net.mindview.util.Print.*;
 

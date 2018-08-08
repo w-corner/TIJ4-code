@@ -1,5 +1,6 @@
 //: arrays/ComparingArrays.java
 // Using Arrays.equals()
+package arrays;
 import java.util.*;
 import static net.mindview.util.Print.*;
 

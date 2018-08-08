@@ -1,4 +1,5 @@
 //: initialization/MethodInit2.java
+package initialization;
 public class MethodInit2 {
   int i = f();
   int j = g(i);
